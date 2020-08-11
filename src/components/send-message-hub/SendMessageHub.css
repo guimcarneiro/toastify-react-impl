@@ -1,0 +1,24 @@
+.send-message-hub {
+    width: 80%;
+
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.send-message-hub .loaded-content {
+    height: 80px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.send-message-hub .button-container {
+    display: flex;
+    height: 40px;
+    justify-content: space-evenly;
+}
